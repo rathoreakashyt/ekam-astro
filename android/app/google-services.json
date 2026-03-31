@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "88165187266",
+    "firebase_url": "https://ekamastro-2554d-default-rtdb.firebaseio.com",
+    "project_id": "ekamastro-2554d",
+    "storage_bucket": "ekamastro-2554d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88165187266:android:38cadd1e56c716e605c55b",
+        "android_client_info": {
+          "package_name": "com.ekamastro.astrologer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88165187266-d3upvjbeo2mk20mb8640teqf42i4567d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ekamastro.astrologer",
+            "certificate_hash": "b111f53b0f7f5bfb3ec95134d9c59f9908a0e8f7"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtl7bJE5rNOV3Rd_Zv-ou2ZV-Wf8usHTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88165187266:android:3679d16d1ddc596d05c55b",
+        "android_client_info": {
+          "package_name": "com.ekamastro.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88165187266-p4jj8kje6tmmslue1fshe4ufjtn0q75p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ekamastro.user",
+            "certificate_hash": "b111f53b0f7f5bfb3ec95134d9c59f9908a0e8f7"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtl7bJE5rNOV3Rd_Zv-ou2ZV-Wf8usHTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
